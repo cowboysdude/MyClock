@@ -1,9 +1,5 @@
-{
-        module: "MyClock",
-        order: "1",
-        config: {
-        reflect: true          
-        },
+      {
+        module: "MyClock",       
         disabled: true,
         position: "top_bar"
       },
